@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1.0",
+  "org": "celery",
+  "repo": "umbrella",
+  "versions": [
+    {
+      "commit": "02b5ca0a4a698d9308f3101629b46216ccd13bd4",
+      "parsed_at": "2026-10-11T20:27:05.739726+00:00",
+      "filetree": "filetree/02b5ca0a4a698d9308f3101629b46216ccd13bd4.nq.gz",
+      "blobs": [
+        "blob/39d03721d6d1542095982c720482dfc0c6a4846a.nq.gz",
+        "blob/7f07f7ac0a159937091df2f992daede89fb64e24.nq.gz",
+        "blob/ab3c0666ef8b762f0109f81c3f6d1c809b966c49.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
