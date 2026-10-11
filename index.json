@@ -1,0 +1,11 @@
+{
+  "org": "celery",
+  "repo": "umbrella",
+  "versions": [
+    {
+      "commit": "02b5ca0a4a698d9308f3101629b46216ccd13bd4",
+      "tag": "",
+      "parsed_at": "2026-10-11T20:29:19.792350+00:00"
+    }
+  ]
+}
